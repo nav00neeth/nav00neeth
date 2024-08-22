@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Navaneeth
+<a href="www.linkedin.com/in/navaneethgprabhu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**nav00neeth/nav00neeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a post graduate in compuer applications with a profound interest in cybersecurity and AI and a passion to hunt bugs.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My journey in computer science has led me to develop a passion for cybersecurity and bug hunting, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Adding soon!          | Please contact me for my permission to use my project©|
+
+
+## Tools
+Hey there! I'll be adding walkthroughs and tool details i'll be testing and using.
+| CustomBsqli by coffinxp7         | Review adding soon!|
+
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-CNSP-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-UiPath Automation-FFA500?&style=for-the-badge&logoColor=white" />
+
+</div>
+
+## Projects
+-
