@@ -1,5 +1,5 @@
 # Hey, I'm Navaneeth
-<a href="www.linkedin.com/in/navaneethgprabhu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/navaneethgprabhu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a post graduate in compuer applications with a profound interest in cybersecurity and AI and a passion to hunt bugs.
 
